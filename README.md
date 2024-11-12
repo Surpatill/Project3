@@ -16,5 +16,5 @@ Tools and Techniques
 - Data visualization (heatmaps, scatter plots)
 - Statistical analysis (correlation, regression)
 
-Project3.ipynb is my file in which i performed all the programming
-A ppt(Project 3 ppt)is also attached showing the details related to project
+- Project3.ipynb is my file in which i performed all the programming
+- A ppt(Project 3 ppt)is also attached showing the details related to project
